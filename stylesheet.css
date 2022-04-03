@@ -1,0 +1,35 @@
+@charset "uft-8";
+
+html {
+    background-color: rgb(31, 47, 77);
+    font-family: Verdana,
+    Geneva,
+    Tahoma,
+    sans-serif;
+}
+
+h2 {
+    
+    color:rgb(23, 46, 71);
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    max-width: 960px;
+    min-width: 640px;
+    background-color: rgb(127, 150, 177);
+   
+}
+
+div {
+text-align: center;
+}
+
+
+button {
+    font-weight: 700;
+    color: rgb(197, 197, 231);
+    background-color: rgb(5, 13, 27);
+}
